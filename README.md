@@ -20,28 +20,12 @@ This repository consists in several directories with specific purposes:
   1. `utils`: module with intermediate functions
   2. `analytical`: implementation of FSR Analytical algorithm
   3. `iterative`: implementation of ADMM algorithm
-- `prototype notebooks`: preliminary notebook for the project.
 - `images`: images on which we apply high resolution algorithms.
 - `test_package`: test of the algorithm on a picture (lena for instance)
 
 ---
-For any information, feedback or questions, please [contact us][anas-email]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+For any information, feedback or questions, please [contact us][imad-email]
 
 [anas-email]: mailto:essounaini97@gmail.com
 [ali-email]: mailto:mourtada.ali1997@gmail.com 
+[imad-email]: mailto:imadaouali9@gmail.com 
