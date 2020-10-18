@@ -12,11 +12,7 @@ This project aims to implement the algorithms described in the paper [Fast Singl
 
 This repository consists in several directories with specific purposes:
 
-- `image_super_resolution`: This directory contains the `image_super_resolution` Python Library developed exclusively for this project. It contains functions used within the scripts. To install the library, navigates to the project directory and run the following `pip` command:
-  ```Shell
-  cd [path_to_project_directory]
-  pip install -e .
-  ```
+- `image_super_resolution`: This directory contains the `image_super_resolution` Python Library developed exclusively for this project. It contains functions used within the scripts.
   1. `utils`: module with intermediate functions
   2. `analytical`: implementation of FSR Analytical algorithm
   3. `iterative`: implementation of ADMM algorithm
